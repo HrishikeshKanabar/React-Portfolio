@@ -29,19 +29,14 @@ margin: 0;
 
  /* style header bar */
 
-.container{
+.cont{
   background-color:black;
-}
-
-.about {
-  width: 100%;
-  padding-left: 2vh;
-  padding-right: 2vh;
-}
-.fontStyle{
+  color:white;
   font-family: 'Roboto', sans-serif;  
   
 }
+
+
  
 .NavTabs {
   width: 100%;
@@ -104,4 +99,24 @@ a.navActive:hover{
  a.nav-link:hover {
    color:var(--primary-color);
  }
+
+ /* About styling */
+
+ .about {
+  font-family: 'Roboto', sans-serif;  
+  background-image:url("https://cdn.wallpapersafari.com/73/82/0zuld2.jpg") no-repeat fixed center;
+ }
+
+ .about h1{
+  width: 100%;
+  padding-left: 2vh;
+  padding-right: 2vh;
+  color:white;
+}
+
+.about p{
+   position: relative;
+   left:20px;
+   font-size: 30px;
+}
  

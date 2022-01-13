@@ -1,14 +1,19 @@
 const AboutMe =() => (
-    <div>
-      <h1>About Page</h1>
-      <p>
-        Nunc pharetra finibus est at efficitur. Praesent sed congue diam. Integer gravida dui mauris,
-        ut interdum nunc egestas sed. Aenean sed mollis diam. Nunc aliquet risus ac finibus porta. Nam
-        quis arcu non lectus tincidunt fermentum. Suspendisse aliquet orci porta quam semper
-        imperdiet. Praesent euismod mi justo, faucibus scelerisque risus cursus in. Sed rhoncus mollis
-        diam, sit amet facilisis lectus blandit at.
-      </p>
-    </div>
+
+  <main>
+  <section class="about">
+      <h1>About me</h1><br/><br/>
+      <h1>Hello! I’m Hrishikesh Kanabar.</h1> <br/>
+                <p >
+              
+                I am passionate about UI/UX design and Web Design.<br/> 
+                I also work as full stack developer in IBM.<br/> 
+                I am a also skilled front-end developer.<br/> 
+                I believe in team work and get job done.<br/>
+                </p>
+  </section>
+</main>
+   
   );
   
   export default AboutMe;

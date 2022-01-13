@@ -33,7 +33,7 @@ function App() {
   };
 
   return (
-    <div className="container">
+    <div className="cont">
       {/* Pass the state value and the setter as props to NavTabs */}
       <NavTabs currentPage={currentPage} handlePageChange={handlePageChange} />
       {/* Call the renderPage function passing in the currentPage */}
