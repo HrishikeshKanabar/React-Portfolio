@@ -104,7 +104,8 @@ a.navActive:hover{
 
  .about {
   font-family: 'Roboto', sans-serif;  
-  background-image:url("https://cdn.wallpapersafari.com/73/82/0zuld2.jpg") no-repeat fixed center;
+  background-image:url("./components/images/aboutme.jpg");
+ 
  }
 
  .about h1{
