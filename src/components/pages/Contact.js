@@ -27,6 +27,14 @@ const handleMouseOutEmail=(e)=>{
   if(e.target.value===""){
      alert("Email Field Required !!");
   }
+  var mailformat = /^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/;
+  var email =e.target.value;
+  if (email.match(mailformat))
+  {
+    return true;
+  }else{
+    alert("Email is not valid !!");
+  }
   
 }
 
