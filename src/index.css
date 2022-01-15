@@ -217,6 +217,23 @@ a.navActive:hover{
   background-position: center;
 }
 
+.four {
+  background-image: url("./components/images/wd.JPG");
+  background-size: cover;
+  background-position: center;
+}
+
+.five {
+  background-image: url("./components/images/budget.JPG");
+  background-size: cover;
+  background-position: center;
+}
+
+.six {
+  background-image: url("./components/images/note.JPG");
+  background-size: cover;
+  background-position: center;
+}
 
 .one:hover {
   width: 35%;
@@ -233,6 +250,22 @@ a.navActive:hover{
   width: 35%;
   height: 600px;
 }
+
+.four:hover{
+  width: 35%;
+  height: 600px;
+}
+
+.five:hover{
+  width: 35%;
+  height: 600px;
+}
+
+.six:hover{
+  width: 35%;
+  height: 600px;
+}
+
 
 .SimpleForm{
   margin-right: 600px;

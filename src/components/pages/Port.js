@@ -25,6 +25,24 @@ const Port = () => (
       
       </span>
     </a>
+    <a className="flex-item four" href="https://hrishikeshkanabar.github.io/H-Weather-Dashboard/">
+      <span> Weather Dashboard <br /><br />
+      <a href="https://github.com/HrishikeshKanabar/H-Weather-Dashboard.git"><FontAwesomeIcon icon={faCode} /> Source Code</a>
+      
+      </span>
+    </a>
+    <a className="flex-item five" href="https://stark-shelf-76985.herokuapp.com/">
+      <span> Budget Tracker <br /><br />
+      <a href="https://github.com/HrishikeshKanabar/Fin-Buget-Tracker.git"><FontAwesomeIcon icon={faCode} /> Source Code</a>
+    
+    </span>
+    </a> 
+    <a className="flex-item six" href="https://hrishi-note-taker.herokuapp.com/">
+      <span> Note Taker <br /><br />
+     <a href="https://github.com/HrishikeshKanabar/Express-Note-Taker.git"><FontAwesomeIcon icon={faCode} /> Source Code</a>
+      
+      </span>
+    </a>
   </div>
   </div>
   </div>
