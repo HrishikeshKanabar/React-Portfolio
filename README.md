@@ -20,7 +20,7 @@ FEW FEATURES:
 
 FULL SCREEN VIEW         |  
 :--------------------------------:|
-![Full Screen]()
+![Full Screen](https://github.com/HrishikeshKanabar/React-Portfolio/blob/main/src/components/images/port.JPG)
 
 ## Task achieved
 
