@@ -8,7 +8,7 @@ const Port = () => (
   <br/><br/><br/><br/>
   <div className="flex-container">
     <a className="flex-item one" href="https://worki-it-out.herokuapp.com/">
-      <span> RUN BUDDY <br /><br />
+      <span> WORKI IT OUT <br /><br />
       <a href="https://github.com/HrishikeshKanabar/WorkI-IT-Out.git"><FontAwesomeIcon icon={faCode} /> Source Code</a>
       
       </span>
