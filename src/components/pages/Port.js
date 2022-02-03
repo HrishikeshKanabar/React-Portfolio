@@ -7,9 +7,9 @@ const Port = () => (
   <h2>PORTFOLIO</h2>
   <br/><br/><br/><br/>
   <div className="flex-container">
-    <a className="flex-item one" href="https://hrishikeshkanabar.github.io/run-buddy/">
+    <a className="flex-item one" href="https://worki-it-out.herokuapp.com/">
       <span> RUN BUDDY <br /><br />
-      <a href="https://github.com/HrishikeshKanabar/run-buddy.git"><FontAwesomeIcon icon={faCode} /> Source Code</a>
+      <a href="https://github.com/HrishikeshKanabar/WorkI-IT-Out.git"><FontAwesomeIcon icon={faCode} /> Source Code</a>
       
       </span>
     </a>
